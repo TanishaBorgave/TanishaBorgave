@@ -1,5 +1,11 @@
 # 💫 About Me:
-🤓 A Computer Science student<br>🌱 I’m currently learning Web Technologies<br>👾 I like to code<br>⚡ Data Structures and Algorithms<br>🐧 Coding Enthusiast
+🤓 A Computer Science student<br>
+🌱 I’m currently learning Web Technologies<br>
+👾 I like to code<br>
+⚡ Data Structures and Algorithms<br>
+🐧 Coding Enthusiast<br>
+🚀 Building projects and learning something new every day<br>
+🧠 Exploring Full-Stack Development & Software Engineering
 
 
 ## 🌐 Socials:
